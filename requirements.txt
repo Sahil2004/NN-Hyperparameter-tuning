@@ -2,4 +2,4 @@ flask
 crewai[google-genai]
 python-dotenv
 werkzeug
-
+gunicorn
